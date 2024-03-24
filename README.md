@@ -6,13 +6,21 @@ Na pasta inputs está um exemplo de texto que utilizamos para testar a ferrament
 
 ![Sentença 1](/prints/sentenca1.png?raw=true "Sentença 1")
 
+Nessa primeira sentença, a análise errou completamente não entendendo que se tratava de sarcasmo.
+
 ![Sentença 2](/prints/sentenca2.png?raw=true "Sentença 2")
 
+Pela divisão das porcentagens conseguimos perceber que a análise compreendeu um pouco melhor o sarcasmo e classificou como sentimento negativo essa segunda sentença.
+
 ![Sentença 3](/prints/sentenca3.png?raw=true "Sentença 3")
+
+Mais uma vez, a análise se perdeu e classificou como sentimento positivo.
 
 ![Sentença 4](/prints/sentenca4.png?raw=true "Sentença 4")
 
 ![Sentença 5](/prints/sentenca5.png?raw=true "Sentença 5")
+
+Aqui novamente a análise percebeu um pouco o sarcasmo e classificou como negativo.
 
 ![Sentença 6](/prints/sentenca6.png?raw=true "Sentença 6")
 
